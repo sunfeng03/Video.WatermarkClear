@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.WatermarkWeb", "Video.WatermarkWeb\Video.WatermarkWeb.csproj", "{852DC43C-94CD-4FAD-88D1-83B25896531A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.Watermark.Web", "Video.Watermark.Web\Video.Watermark.Web.csproj", "{6ABE1D09-2BDC-43AB-A3E1-704732164C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.Watermark.Model", "Video.Watermark.Model\Video.Watermark.Model.csproj", "{49C60011-D9BC-4250-BC92-5653AD0E44F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.Watermark.DataAccess", "Video.Watermark.DataAccess\Video.Watermark.DataAccess.csproj", "{F3E389BC-968C-4AC9-B326-BC8659253E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.Watermark.Bussiness", "Video.Watermark.Bussiness\Video.Watermark.Bussiness.csproj", "{AD01019F-92F4-4017-910B-FBB24671EB3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.Watermark.Common", "Video.Watermark.Common\Video.Watermark.Common.csproj", "{412E8E08-8E59-42E6-B0C8-9048BC6AC464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852DC43C-94CD-4FAD-88D1-83B25896531A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852DC43C-94CD-4FAD-88D1-83B25896531A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852DC43C-94CD-4FAD-88D1-83B25896531A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852DC43C-94CD-4FAD-88D1-83B25896531A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABE1D09-2BDC-43AB-A3E1-704732164C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABE1D09-2BDC-43AB-A3E1-704732164C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABE1D09-2BDC-43AB-A3E1-704732164C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABE1D09-2BDC-43AB-A3E1-704732164C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C60011-D9BC-4250-BC92-5653AD0E44F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C60011-D9BC-4250-BC92-5653AD0E44F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C60011-D9BC-4250-BC92-5653AD0E44F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C60011-D9BC-4250-BC92-5653AD0E44F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E389BC-968C-4AC9-B326-BC8659253E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E389BC-968C-4AC9-B326-BC8659253E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E389BC-968C-4AC9-B326-BC8659253E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E389BC-968C-4AC9-B326-BC8659253E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD01019F-92F4-4017-910B-FBB24671EB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD01019F-92F4-4017-910B-FBB24671EB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD01019F-92F4-4017-910B-FBB24671EB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD01019F-92F4-4017-910B-FBB24671EB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{412E8E08-8E59-42E6-B0C8-9048BC6AC464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412E8E08-8E59-42E6-B0C8-9048BC6AC464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412E8E08-8E59-42E6-B0C8-9048BC6AC464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412E8E08-8E59-42E6-B0C8-9048BC6AC464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF006AF-DB30-4794-A9F4-DE3BBBAE8BA0}
+	EndGlobalSection
+EndGlobal
